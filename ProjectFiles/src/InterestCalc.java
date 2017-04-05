@@ -1,5 +1,3 @@
-
-package portfolio;
 import java.util.Scanner;
 import java.lang.Math;
 import java.text.DecimalFormat;

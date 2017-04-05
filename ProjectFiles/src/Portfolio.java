@@ -3,7 +3,6 @@
  * For Personal Use Only
  * 2016
  */
-package portfolio;
 
 /**
  *

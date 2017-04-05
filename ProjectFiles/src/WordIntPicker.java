@@ -4,8 +4,6 @@
  * For education only
  */
 
-package portfolio;
-
 /**
  *2016
  * @author RyanT

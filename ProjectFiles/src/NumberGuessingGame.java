@@ -1,5 +1,3 @@
-package portfolio;
-
 /*
  * CSC 101 Monroe Community College
  * Spring Semester 2016

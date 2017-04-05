@@ -3,7 +3,6 @@
  * Spring Semester 2016
  * For education only
  */
-package portfolio;
 
 /**
  * 2016
