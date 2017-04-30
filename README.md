@@ -1,6 +1,6 @@
 # JavaClassProjects
 _A collection of Java projects from CSC101 2016_</br>
-by: Ryan Taylor
+by: Ryan Taylor</br>
 School: Monroe Community College
 
 Programs:
